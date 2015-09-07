@@ -26,6 +26,8 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         return cell
     }
 
+    // git勉強のためtest追加
+    
     func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int{
         return 5
     }
